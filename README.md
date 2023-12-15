@@ -1,1 +1,1 @@
-Simple Sudoku python game utilizing pygame
+Simple Python Sudoku game utilizing Pygame
